@@ -1,4 +1,5 @@
-### Hi there 👋
+
+I want to find a job where I can gain experience and show my skills. I'm a junior, but I'm a fast learner!
 
 <!--
 **AndreyXp/AndreyXp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
